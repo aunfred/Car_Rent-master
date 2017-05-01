@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Car_Rent</string>
+    <string name="Head">CarDay</string>
+    <string name="Register">Register</string>
+    <string name="User">User</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+</resources>
